@@ -11,7 +11,7 @@ public class execicio02 {
             System.out.println("Digite uma idade");
             int idade = in.nextInt();
 
-     
+
 
             if (idade > 4 && idade < 8) {
                 System.out.println("Infantil A");
