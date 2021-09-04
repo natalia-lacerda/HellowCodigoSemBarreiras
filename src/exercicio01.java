@@ -1,9 +1,5 @@
-
-
-public class excicio01 {
-
+public class exercicio01 {
     public static void main(String[] args) {
-
         int y = 99;
         int z = 11;
         int coringa = 0;
@@ -15,8 +11,7 @@ public class excicio01 {
         System.out.println(y);
         System.out.println(z);
 
+        System.out.println("i");
 
     }
-
-
 }

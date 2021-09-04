@@ -1,10 +1,10 @@
 package parte2;
 
-import javax.swing.text.Style;
 import java.util.Scanner;
 
-public class excercicio03 {
+//Escreva um algoritimo em java quw leia dois números inteiros e determine qual é o meonos:
 
+public class exercicio03 {
     public static void main(String[] args) {
         Scanner in= new Scanner(System.in);
 
